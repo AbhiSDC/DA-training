@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+seaborn
+cufflinks
+scikit-learn==0.23
+jupyter
+ipykernel
+flask
+flasgger
